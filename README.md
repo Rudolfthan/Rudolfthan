@@ -37,41 +37,8 @@ Still learning. Always improving. Slightly obsessed with fixing chaos in data an
 
 ### 🧰 My Digital Toolbox
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-3E2723?style=for-the-badge&logo=openjdk&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/Python-3E2723?style=for-the-badge&logo=python&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/C%23-3E2723?style=for-the-badge&logo=csharp&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-3E2723?style=for-the-badge&logo=cplusplus&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/SQL-3E2723?style=for-the-badge&logo=mysql&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/HTML-3E2723?style=for-the-badge&logo=html5&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/CSS-3E2723?style=for-the-badge&logo=css3&logoColor=C89B6C" />
-</p>
-
-**Frameworks & Mobile**
-<p>
-  <img src="https://img.shields.io/badge/.NET-3E2723?style=for-the-badge&logo=dotnet&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/React_Native-3E2723?style=for-the-badge&logo=react&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/Expo-3E2723?style=for-the-badge&logo=expo&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/Node.js-3E2723?style=for-the-badge&logo=node.js&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/Express-3E2723?style=for-the-badge&logo=express&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/React_Native_Paper-3E2723?style=for-the-badge&logo=react&logoColor=C89B6C" />
-</p>
-
-**Data, AI & Databases**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-3E2723?style=for-the-badge&logo=pytorch&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/Firebase-3E2723?style=for-the-badge&logo=firebase&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/SQL_Server-3E2723?style=for-the-badge&logo=microsoftsqlserver&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/DBMS-3E2723?style=for-the-badge&logo=databricks&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/Excel-3E2723?style=for-the-badge&logo=microsoftexcel&logoColor=C89B6C" />
-</p>
-
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-3E2723?style=for-the-badge&logo=git&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/GitHub-3E2723?style=for-the-badge&logo=github&logoColor=C89B6C" />
-  <img src="https://img.shields.io/badge/VS_Code-3E2723?style=for-the-badge&logo=visualstudiocode&logoColor=C89B6C" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,cpp,mysql,html,css,dotnet,react,nodejs,express,pytorch,firebase,git,github,vscode&perline=8" alt="Tech Stack" />
 </p>
 
 ---
